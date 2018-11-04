@@ -3,7 +3,7 @@ Twitter Sentiment Analysis for the top 10 cryptocurrencies on CoinMarketCap and 
 
 ### Run the project (online)
 
-You can run the jupyter notebooks online and free with mybinder: https://mybinder.org/v2/gh/muntisa/Twitter-Sentiment-Analysis-for-CoinMarketCap.
+You can run the jupyter notebooks online and free with mybinder: https://mybinder.org/v2/gh/muntisa/Twitter-Sentiment-Analysis-for-CoinMarketCap/master/.
 
 ### Description
 
