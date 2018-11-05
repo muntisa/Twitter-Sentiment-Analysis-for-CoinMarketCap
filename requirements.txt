@@ -1,0 +1,12 @@
+tweepy
+twython
+textblob
+urllib
+json
+pandas
+numpy
+matplotlib
+re
+IPython
+time
+datetime
