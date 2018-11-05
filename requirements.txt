@@ -1,7 +1,6 @@
 tweepy
 twython
 textblob
-urllib.request
 json
 pandas
 numpy
