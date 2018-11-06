@@ -23,7 +23,7 @@ Notebook: [Live-Twitter-Sentiments-for-Cryptocurrencies.ipynb](Live-Twitter-Sent
 
 ### Acknowledgements
 
-* [robertklim](https://github.com/robertklim) for the solution of the tweepy *async* error in Python 3.7: just [use python 3.6.6](https://github.com/tweepy/tweepy/issues/1017)! 
+* [robertklim](https://github.com/robertklim) for the solution of the tweepy *async* error in Python 3.7: just [use python 3.6.6](https://github.com/tweepy/tweepy/issues/1017)! Or repace *async* variable with let's say *tr_async* in \Lib\site-packages\streaming.py (https://stackoverflow.com/questions/49339502/tweepy-on-macbook-pycharm-async-invalid-syntax).
 
 Hf!
 
