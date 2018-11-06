@@ -20,6 +20,11 @@ Notebook: [Live-Twitter-Sentiments-for-Cryptocurrencies.ipynb](Live-Twitter-Sent
 * Input your Twitter API credentials, crypto keywords, number of tweets/connections, update interval
 * run the notebook
 
+
+### Acknowledgements
+
+* [robertklim](https://github.com/robertklim) for the solution of the tweepy *async* error in Python 3.7: just [use python 3.6.6](https://github.com/tweepy/tweepy/issues/1017)! 
+
 Hf!
 
 @muntisa
