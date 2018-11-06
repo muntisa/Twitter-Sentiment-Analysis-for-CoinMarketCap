@@ -4,7 +4,6 @@ textblob
 pandas
 numpy
 matplotlib
-re
 IPython
 time
 datetime
