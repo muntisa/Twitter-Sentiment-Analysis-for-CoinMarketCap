@@ -1,7 +1,6 @@
 tweepy
 twython
 textblob
-json
 pandas
 numpy
 matplotlib
