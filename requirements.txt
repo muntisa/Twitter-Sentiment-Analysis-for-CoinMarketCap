@@ -5,5 +5,3 @@ pandas
 numpy
 matplotlib
 IPython
-time
-datetime
